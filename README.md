@@ -4,4 +4,4 @@ Solving a Physical Deception problem using Multi-Agent Deep Deterministic Policy
 
 ## Agent behaviour demo
 
-![agent_demo](model_dir/episode-29996.gif)
+<img src="model_dir/episode-29996.gif" alt="agent_demo" width="500" height="500">
